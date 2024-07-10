@@ -33,12 +33,15 @@ You can check out the live demo of the application [here](#).
    ```
    npm run dev
    ```
-##Usage
+## Usage
 - Adding a Task: Use the input field at the top of the app to add a new task. Press "Enter" or click the "Add" button to save the task.
 - Editing a Task: Click on an existing task to edit its content. Press "Enter" or click the "Save" button to update the task.
 - Deleting a Task: Click the "Delete" button next to a task to remove it from the list.
 
-##Built With
+## Built With
 - React
 - Material UI
 - Local Storage
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.
